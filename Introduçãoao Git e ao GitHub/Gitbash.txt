@@ -1,0 +1,1 @@
+O Git Bash é um uma extensão de utilização do Git para se utilizar de forma otimizada
